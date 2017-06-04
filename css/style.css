@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    
+}
+
+.content-section{
+    background-color: azure;
+    overflow: hidden;
+    padding: 100px;
+}
+
+.parallax{
+    height: 450px;
+    background-color: burlywood;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#parallax-first{
+    background-image:url(../gory.jpg);
+}
+
+#parallax-second{
+    background-image:url(../tlo.jpg);
+}
